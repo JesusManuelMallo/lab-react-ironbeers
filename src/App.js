@@ -6,7 +6,7 @@ import HomePage from "./pages/HomePage";
 import NavBar from './components/NavBar';
 import Beers from "./pages/Beers"
 
-
+//dd
 function App() {
   return (
     <div className="App">
