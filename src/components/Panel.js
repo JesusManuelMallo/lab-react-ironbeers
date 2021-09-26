@@ -11,7 +11,7 @@ function Panel(props) {
        <h1>{name}</h1>
        </Link>
 
-       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem laborum esse sunt porro aut totam animi ut eligendi. Et ullam explicabo ipsam distinctio deleniti enim repellat possimus repudiandae ducimus perspiciatis.</p>
+       <p>Popular beers from around the world</p>
       </div>
     );
   }
